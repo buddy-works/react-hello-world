@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Hello World</h2>
         <p>
-          Byddu rocks!!!
+          Welcome to Buddy Webinar!!
         </p>
       </header>
     </div>
