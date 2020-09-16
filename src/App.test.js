@@ -18,7 +18,7 @@ describe('my beverage', () => {
   });
 
   test('is not sour', () => {
-      expect(thisProject.hasIssues).toBeTruthy();
+      expect(thisProject.hasIssues).toBeFalsy();
   });
 });
 
